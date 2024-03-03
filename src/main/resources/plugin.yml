@@ -1,0 +1,7 @@
+name: SimpleShops
+version: '${project.version}'
+main: me.zlaio.simpleshops.SimpleShops
+api-version: 1.20
+commands:
+  simpleshops:
+    description: SimpleShops command for everything SimpleShops :)
